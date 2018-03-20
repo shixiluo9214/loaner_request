@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="start_date" label="Start Date" language="en" table="x_snc_loanner_requ_loaner_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <help/>
+            <hint/>
+            <label>Start Date</label>
+            <language>en</language>
+            <name>x_snc_loanner_requ_loaner_request</name>
+            <plural>Start Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-19 23:22:53</sys_created_on>
+            <sys_id>e3bca988040513007f44a7b27e2f5b1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Start Date</sys_name>
+            <sys_package display_value="Loanner Request" source="x_snc_loanner_requ">dd68d973047013007f44a7b27e2f5b2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loanner Request">dd68d973047013007f44a7b27e2f5b2d</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_loanner_requ_loaner_request_start_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-19 23:22:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
